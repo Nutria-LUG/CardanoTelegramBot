@@ -1,4 +1,5 @@
 /test
 /pdfminer-master
+/.openshift
 *.pyc
 
