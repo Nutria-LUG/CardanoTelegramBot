@@ -22,16 +22,25 @@ def webpage_hash_calculator(url):
     md5_hash = md5(content).hexdigest()
     return md5_hash
 
-def classify_by_classes():
+def classify_notice(pdf_path):
     return
 
-def get_avvisi_uris():
-    return
+def get_notices_uris():
+    return uris
 
-def get_avvisi():
+def get_notice_pdf():
     return
 
 def main():
+    # check if website md5 exist in db or file
+    # if it exists, get it
+    # else generate and save it
+    if webpage_hash_calculator(URL) != md5:
+        uris = get_notices_uris(URL)
+        for uri in uris:
+            pdf_path = get_notice_pdf(uri)
+            classify_notice(pdf_path)
+            # add notice to db
     return
 
 if __name__ == "__main__":
