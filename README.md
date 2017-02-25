@@ -16,7 +16,7 @@ pip install python-telegram-bot
 pip install beautifulsoup4
 ```
 
-You can also install all necessary python modules from the requiremnts file with the following command:
+You can also install all necessary python modules from the requirements file with the following command:
 ```
 pip install -r ./path/to/project/folder/requirements.txt
 ```
@@ -32,4 +32,4 @@ pip install virtualenv
 
 Here you find the [Telgram Desktop Client](https://desktop.telegram.org/).
 
-Red Hat's public cloud application development and hosting [service](https://www.openshift.com/) were we host our bot.
+Red Hat's public cloud application development and hosting [service](https://www.openshift.com/) where we'll host our bot.
