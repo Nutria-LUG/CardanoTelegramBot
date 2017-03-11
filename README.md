@@ -10,10 +10,11 @@ sudo apt-get install python2.7
 sudo apt-get install idle
 ```
 
-And these are the necessary python modules:
+And these are the main necessary python modules:
 ```
 pip install python-telegram-bot
 pip install beautifulsoup4
+pip install pdfminer
 ```
 
 You can also install all necessary python modules from the requirements file with the following command:
