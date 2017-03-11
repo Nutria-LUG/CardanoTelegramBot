@@ -1,5 +1,6 @@
 /test
 /pdfminer-master
 /.openshift
+/venv
 *.pyc
 
