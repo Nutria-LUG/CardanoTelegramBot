@@ -14,6 +14,7 @@ And these are the main necessary python modules:
 ```
 pip install python-telegram-bot
 pip install beautifulsoup4
+pip install lxml
 pip install pdfminer
 ```
 
