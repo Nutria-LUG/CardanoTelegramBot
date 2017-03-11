@@ -1,6 +1,6 @@
 # CardanoTelegramBot
 
-The codebase for the python workshop to be held at ITIS G. Cardano of Pavia: a simple implementation of a telegram bot
+A simple implementation of a Telegram bot for ITIS G. Cardano of Pavia
 
 ## INSTALL DEPENDENCIES
 
